@@ -1,3 +1,8 @@
+//creates a .class file for every java file with the name of the class containing the main class
+//Can have more than 1 class and to execute we need to use the class containing main 
+
+
+
 class MainCls
 {
 	public static void main(String [] args)
@@ -8,9 +13,6 @@ class MainCls
 
 
 }
-
-//makes .class file for every class created
-//Can have more than 1 main class and to execute we can run any of the classes containing main 
 
 
 
